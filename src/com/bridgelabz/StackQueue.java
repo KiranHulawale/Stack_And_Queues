@@ -9,6 +9,7 @@ public class StackQueue {
         list.push(30);
         list.push(56);
         list.display();
-       // list.pop();
+        list.peek();
+        list.pop();
     }
 }
