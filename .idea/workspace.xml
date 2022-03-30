@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a248ace-efdc-4d16-a422-1cd898eabe5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StackQueues/com/bridgelabz/StackQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StackQueues/com/bridgelabz/StackQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/StackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/StackQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,5 +66,20 @@
       <updated>1648661282923</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/StackQueue.java</url>
+          <line>5</line>
+          <properties class="com.bridgelabz.StackQueue" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
