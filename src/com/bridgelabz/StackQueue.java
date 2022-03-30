@@ -16,5 +16,6 @@ public class StackQueue {
         list.enqueue(30);
         list.enqueue(70);
         list.display();
+        list.dequeue();
     }
 }
