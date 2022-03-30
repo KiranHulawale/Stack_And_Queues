@@ -47,7 +47,17 @@ public class MyLinkedList {
         this.rear.next = temp;
         this.rear = temp;
     }
-
+    
+ void dequeue()
+    {
+        if (this.front == null)
+            return;
+        INode temp = this.front;
+        this.front = this.front.next;
+        if (this.front == null)
+            this.rear = null;
+    }
+    
     void display() {
         Node temp = head;     //pointing to first node
         while (temp != null) {
